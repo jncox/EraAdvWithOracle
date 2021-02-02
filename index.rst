@@ -19,6 +19,7 @@
   :hidden:
 
   era_rest_api/era_rest_api
+  deploy_oracle_rac_era/deploy_oracle_rac_era
 
 .. toctree::
   :maxdepth: 2
